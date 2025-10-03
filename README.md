@@ -23,7 +23,14 @@ This app allows users to attempt quizzes, view their scores, and learn in a fun 
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the repository  
+### 1
+Clone the repository  
 ```bash
 git clone https://github.com/priya-123kumari/quiz-app.git
 cd quiz-app
+
+Install dependencies
+npm install
+
+3️ Start the development server
+npm run dev
